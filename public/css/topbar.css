@@ -87,7 +87,7 @@
 }
 
 
-/* Scroll animation 
+/* Scroll animation */
 .topbar .wrapper {
     opacity: 0;
     transition: all 0.5s;
@@ -135,4 +135,3 @@
     transform: translateX(0px) translateY(0px);
     opacity: 1;
 }
-*/
